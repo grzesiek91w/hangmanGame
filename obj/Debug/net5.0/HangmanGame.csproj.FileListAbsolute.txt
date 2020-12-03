@@ -1,0 +1,16 @@
+/home/gwachala/visual-workspace/HangmanGame/bin/Debug/net5.0/HangmanGame
+/home/gwachala/visual-workspace/HangmanGame/bin/Debug/net5.0/HangmanGame.deps.json
+/home/gwachala/visual-workspace/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.json
+/home/gwachala/visual-workspace/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.dev.json
+/home/gwachala/visual-workspace/HangmanGame/bin/Debug/net5.0/HangmanGame.dll
+/home/gwachala/visual-workspace/HangmanGame/bin/Debug/net5.0/ref/HangmanGame.dll
+/home/gwachala/visual-workspace/HangmanGame/bin/Debug/net5.0/HangmanGame.pdb
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.csprojAssemblyReference.cache
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfoInputs.cache
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfo.cs
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.CoreCompileInputs.cache
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.dll
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/ref/HangmanGame.dll
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.pdb
+/home/gwachala/visual-workspace/HangmanGame/obj/Debug/net5.0/HangmanGame.genruntimeconfig.cache
